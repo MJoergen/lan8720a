@@ -1,2 +1,4 @@
-# lan8720a
-Ethernet module based on the LAN8720A PHY from MicroChip.
+# The LAN8720A PHY #
+
+This repository contains the VHDL source code for interfacing with the LAN8720A Ethernet PHY.
+
